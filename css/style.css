@@ -1,0 +1,23 @@
+body{
+    margin:5% 5% 5% 5%!important;
+}
+
+.form-group{
+    border: 1px solid #c3c3c3;
+    border-radius: 5px;
+    line-height: 2em;
+    padding-left: 1%!important;
+    padding-bottom: 1%!important; 
+}
+div.resultField{
+    margin-bottom: 3%;
+}
+a:hover{
+    text-decoration: none!important;
+    background:greenyellow!important;
+}
+a{
+    background: aliceblue;
+    padding: 1%;
+    border-radius: 20%;
+}
